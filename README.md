@@ -26,6 +26,9 @@ Welcome to the ERCF Pre Gate project. This project is to be used with the Filame
 | `wire` | to solder jst to endstop| 2'|
 
 
+![PRE GATE EXPLODED WIDESCREEN](https://github.com/user-attachments/assets/632656c9-9b5f-404c-8eb1-d850d87bf105)
+
+
 >[!IMPORTANT]
 > The below hardware list is for a single (1) pre gate assembly
 
