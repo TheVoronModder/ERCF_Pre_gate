@@ -15,4 +15,8 @@ Welcome to the ERCF Pre Gate project. This project is to be used with the Filame
 | `m3 heatsert` | standard voron | x8|
 | `jst 2.54` | female | x8|
 | `ECAS` | ECAS Fitting | x16|
+| `m5.5 ball` | Ball bearing | x8|
+| `omron endstop` | standard endstop switch | x8|
+| `wire` | to solder jst to endstop| 2'|
+
 
