@@ -45,4 +45,10 @@ Welcome to the ERCF Pre Gate project. This project is to be used with the Filame
 | `omron endstop` | standard endstop switch | x1|
 | `wire` | to solder jst to endstop| 3"|
 
+>[!IMPORTANT]
+>You may choose to build this system however you want, there are 4x pre gate .stls
+>1. ERCF_pre_gate_base_(x5) - this is your main pre-gate base
+>2. ERCF_pre_gate_base_end_(x1) - this is the end of the line, your last one, it has no hexes and has a smooth face
+>3. ERCF_pre_gate_base_left_MMU_mount_(x1) - this part is used if you want to mount the MMU underneath the pregate system for simple wiring and requires you to use a higher / taller mount system.
+>4. ERCF_pre_gate_base_right_MMU_mount_(x1) - this part is used if you want to mount the MMU underneath the pregate system, again, taller mounts needed.
 
