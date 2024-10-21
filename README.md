@@ -52,3 +52,9 @@ Welcome to the ERCF Pre Gate project. This project is to be used with the Filame
 >3. ERCF_pre_gate_base_left_MMU_mount_(x1) - this part is used if you want to mount the MMU underneath the pregate system for simple wiring and requires you to use a higher / taller mount system.
 >4. ERCF_pre_gate_base_right_MMU_mount_(x1) - this part is used if you want to mount the MMU underneath the pregate system, again, taller mounts needed.
 
+
+>[!IMPORTANT]
+>Influences:
+>https://github.com/kinematicdigit/cottontail
+>
+
