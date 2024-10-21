@@ -10,5 +10,5 @@ Welcome to the ERCF Pre Gate project. This project is to be used with the Filame
 | Hardware | Description |
 | --- | --- |
 | `m5x10mm` | BHCS |
-| `git diff` | Show file differences that **haven't been** staged |
+| `m5 T-Nut` | m5 extrusion nut |
 m5x10 bhcs x 8
