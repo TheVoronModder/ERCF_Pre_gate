@@ -53,7 +53,7 @@ Welcome to the ERCF Pre Gate project. This project is to be used with the Filame
 >4. ERCF_pre_gate_base_right_MMU_mount_(x1) - this part is used if you want to mount the MMU underneath the pregate system, again, taller mounts needed.
 
 
->[!IMPORTANT]
+>[!ATTRIBUTION]
 >Influences:
 >https://github.com/kinematicdigit/cottontail
 >I had the opportunity to work with Terrance (KinematicDigit) before cotton tail was released and I got the overall use and function from his idea, thank you Terrance for your hard work developing the cotton tail system.
