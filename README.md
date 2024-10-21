@@ -26,7 +26,7 @@ Welcome to the ERCF Pre Gate project. This project is to be used with the Filame
 | `wire` | to solder jst to endstop| 2'|
 
 
-![PRE GATE EXPLODED WIDESCREEN](https://github.com/user-attachments/assets/632656c9-9b5f-404c-8eb1-d850d87bf105)
+![PRE GATE EXPLODED WIDESCREEN LIGHTER FILE](https://github.com/user-attachments/assets/d7678b1d-9fab-4cfe-87b6-669f68bd6eab)
 
 
 >[!IMPORTANT]
