@@ -4,7 +4,8 @@ ERCF Pre Gate Mod
 Welcome to the ERCF Pre Gate project. This project is to be used with the Filamentalist filament rewinder system.
 
 
-![d934106f-ea6a-4406-b324-4ad7b198eb38](https://github.com/user-attachments/assets/97112e4e-5831-4106-853a-5d935b3962a0)
+![2](https://github.com/user-attachments/assets/98ea14fe-5f6f-4e93-a700-d7fa16409762)
+
 
 
 | Hardware | Description | Quantity |
@@ -18,5 +19,10 @@ Welcome to the ERCF Pre Gate project. This project is to be used with the Filame
 | `m5.5 ball` | Ball bearing | x8|
 | `omron endstop` | standard endstop switch | x8|
 | `wire` | to solder jst to endstop| 2'|
+
+
+>[!IMPORTANT]
+> The above hardware list is for an ERCF that utilizes 8 gates only, individual pre gate hardware list below
+
 
 
