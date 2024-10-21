@@ -1,4 +1,4 @@
-# ERCF_Pre_gate
+# ERCF Pre Gate System
 ERCF Pre Gate Mod
 
 Welcome to the ERCF Pre Gate project. This project is to be used with the Filamentalist filament rewinder system.
