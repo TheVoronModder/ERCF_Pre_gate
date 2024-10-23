@@ -8,6 +8,7 @@ Welcome to the ERCF Pre Gate project. This project is to be used with the Filame
 
 ![2](https://github.com/user-attachments/assets/98ea14fe-5f6f-4e93-a700-d7fa16409762)
 
+![IMG_5259](https://github.com/user-attachments/assets/612df5a9-a5c7-4027-98dd-6689a54ec3a3)
 
 >[!IMPORTANT]
 > The below hardware list is for an ERCF that utilizes 8 gates only, the individual pre-gate hardware list is below this one.
