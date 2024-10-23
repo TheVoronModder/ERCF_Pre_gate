@@ -3,7 +3,7 @@ ERCF Pre Gate Mod
 
 Welcome to the ERCF Pre Gate project. This project is to be used with the Filamentalist filament rewinder system.
 
->[!WARNING]
+>[!NOTE]
 > The ERCF Pre Gate System is "good to go" as is, however, I want to finish a "neopixel" version for those who want that as an option.
 
 ![2](https://github.com/user-attachments/assets/98ea14fe-5f6f-4e93-a700-d7fa16409762)
@@ -47,7 +47,7 @@ Welcome to the ERCF Pre Gate project. This project is to be used with the Filame
 | `omron endstop` | standard endstop switch | x1|
 | `wire` | to solder jst to endstop| 3"|
 
->[!IMPORTANT]
+>[!TIP]
 >You may choose to build this system however you want, there are 4x pre gate .stls
 >1. ERCF_pre_gate_base_(x5) - this is your main pre-gate base
 >2. ERCF_pre_gate_base_end_(x1) - this is the end of the line, your last one, it has no hexes and has a smooth face
