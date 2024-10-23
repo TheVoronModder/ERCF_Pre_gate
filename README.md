@@ -31,7 +31,7 @@ Welcome to the ERCF Pre Gate project. This project is for use with the Filamenta
 | `m5.5 ball` | Ball bearing | x8|
 | `omron endstop` | standard endstop switch | x8|
 | `wire` | to solder jst to endstop| 2'|
-| `bowden tube` | you need it! I use 3mm ID | 69mm x8 |
+| `bowden tube` | I use 3mm ID | 69mm x8 |
 
 
 ![PRE GATE EXPLODED WIDESCREEN LIGHTER FILE](https://github.com/user-attachments/assets/d7678b1d-9fab-4cfe-87b6-669f68bd6eab)
@@ -53,7 +53,7 @@ Welcome to the ERCF Pre Gate project. This project is for use with the Filamenta
 | `m5.5 ball` | Ball bearing | x1|
 | `omron endstop` | standard endstop switch | x1|
 | `wire` | to solder jst to endstop| 3"|
-| `bowden tube` | you need it! I use 3mm ID | 69mm x1 |
+| `bowden tube` | I use 3mm ID | 69mm x1 |
 
 >[!TIP]
 >You may choose to build this system however you want, there are 4x pre-gate .stls
