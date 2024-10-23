@@ -3,15 +3,6 @@ ERCF Pre Gate Mod
 
 Welcome to the ERCF Pre Gate project. This project is for use with the Filamentalist filament rewinder system.
 
-> ### The quarterly results look great
->
-> - Sales were off the chart!
-> - Morale is strong!
-> - Poised to go public next spring!
->
-> > _Everything_ is going according to **the plan**.
-
-
 >[!NOTE]
 > The ERCF Pre Gate System is "good to go" as is, however, I want to finish a "neopixel" version for those who want that as an option.
 
