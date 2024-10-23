@@ -13,6 +13,10 @@ Welcome to the ERCF Pre Gate project. This project is for use with the Filamenta
 >[!IMPORTANT]
 > The below hardware list is for an ERCF that utilizes 8 gates only, the individual pre-gate hardware list is below this one.
 
+>[!WARNING]
+>try not to laugh to much however the bowden tube length from ERCF Gate to ERCF Pre Gate System is exactly 69mm, not sure how I did that but hilarious!
+
+
 ### 8 Gate Hardware List:
 
 | Hardware | Description | Quantity |
